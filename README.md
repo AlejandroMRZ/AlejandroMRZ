@@ -1,7 +1,5 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%2C%20I%27m%20Alejandro%20-%20Your%20Data%20Scientist%20📊&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-# 👋 Hello, I'm Alejandro Martínez!
-
 ## 🎓 About Me
 I’m a **recently graduated Data Scientist** with a Master's in **Data Science and AI** from **EDEM Business School (2024-2025)** and a passion for uncovering insights through data. My journey began as a Forecast Analyst, where I developed a keen eye for trends, predictive accuracy, and actionable insights. Now, I’m eager to apply my expertise in data analysis, machine learning, and AI to solve real-world problems.
 
