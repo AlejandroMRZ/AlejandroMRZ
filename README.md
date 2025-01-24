@@ -1,3 +1,5 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%2C%20I%27m%20Alejandro%20-%20Your%20Data%20Scientist%20📊&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 # 👋 Hello, I'm Alejandro Martínez!
 
 ## 🎓 About Me
